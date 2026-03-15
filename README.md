@@ -1,0 +1,1 @@
+The purpose of the project is to analyze hospital operations using Python. The datasets useds are patients, staff, services weekly, staff schedule. The goals of theis project is to explore patient floe, staffing, and service efficiency to provide actionable insights to improve hospital performance. 
